@@ -1,2 +1,6 @@
-#!/bin/bash
-echo "This is a sample project for use in Jenkins"
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+        // Hello World!
+    }
+}
